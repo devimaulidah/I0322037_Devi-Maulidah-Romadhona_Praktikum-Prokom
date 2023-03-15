@@ -1,0 +1,5 @@
+print ("Nama: Devi Maulidah Romadhona")
+print ("NIM: I0322037")
+print ("Alamat: Sidorejo, Kalikobok, Tanon, Sragen")
+print ("Deskripsi tempat tinggal: Kabupaten Sragen atau yang sering dikenal dengan nama Bumi Sukowati merupakan tempat yang memiliki berbagai situs menarik di dalamnya. Sebut saja Makam Joko Tingkir hingga Museum Purba Sangiran yang telah diakui UNESCO sebagai salah satu Situs Warisan Dunia. Jangan lupakan makanan berkuah kuning kecoklatan yang menggoda khas Kabupaten Sragen, yaitu Soto Girin.")
+print ("Harapan sebagai lulusan Teknik Industri UNS: Saya berharap mampu mengimplementasikan ilmu yang telah saya dapatkan selama berkuliah di Teknik Industri dengan baik sehingga dapat bermanfaat bagi diri sendiri, keluarga, serta lingkungan masyarakat luas. Selain itu, saya berharap mampu menjadi lulusan yang dapat mengharumkan nama Teknik Industri UNS.")
